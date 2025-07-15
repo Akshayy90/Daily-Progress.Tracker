@@ -3,3 +3,4 @@ requests
 fpdf
 pandas
 pytz
+plotly
